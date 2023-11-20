@@ -1,0 +1,266 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "john.doe@example.com",
+      "password": "password1"
+    },
+    {
+      "id": 2,
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "email": "jane.smith@example.com",
+      "password": "password2"
+    },
+    {
+      "id": 3,
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "email": "michael.johnson@example.com",
+      "password": "password3"
+    },
+    {
+      "id": 4,
+      "first_name": "Emily",
+      "last_name": "Brown",
+      "email": "emily.brown@example.com",
+      "password": "password4"
+    },
+    {
+      "id": 5,
+      "first_name": "David",
+      "last_name": "Wilson",
+      "email": "david.wilson@example.com",
+      "password": "password5"
+    },
+    {
+      "id": 6,
+      "first_name": "Sophia",
+      "last_name": "Lee",
+      "email": "sophia.lee@example.com",
+      "password": "password6"
+    },
+    {
+      "id": 7,
+      "first_name": "James",
+      "last_name": "Anderson",
+      "email": "james.anderson@example.com",
+      "password": "password7"
+    },
+    {
+      "id": 8,
+      "first_name": "Olivia",
+      "last_name": "Martin",
+      "email": "olivia.martin@example.com",
+      "password": "password8"
+    },
+    {
+      "id": 9,
+      "first_name": "William",
+      "last_name": "Thompson",
+      "email": "william.thompson@example.com",
+      "password": "password9"
+    },
+    {
+      "id": 10,
+      "first_name": "Ava",
+      "last_name": "Harris",
+      "email": "ava.harris@example.com",
+      "password": "password10"
+    },
+    {
+      "id": 11,
+      "first_name": "Joseph",
+      "last_name": "Clark",
+      "email": "joseph.clark@example.com",
+      "password": "password11"
+    },
+    {
+      "id": 12,
+      "first_name": "Mia",
+      "last_name": "Lewis",
+      "email": "mia.lewis@example.com",
+      "password": "password12"
+    },
+    {
+      "id": 13,
+      "first_name": "Charles",
+      "last_name": "Hall",
+      "email": "charles.hall@example.com",
+      "password": "password13"
+    },
+    {
+      "id": 14,
+      "first_name": "Charlotte",
+      "last_name": "Adams",
+      "email": "charlotte.adams@example.com",
+      "password": "password14"
+    },
+    {
+      "id": 15,
+      "first_name": "Daniel",
+      "last_name": "White",
+      "email": "daniel.white@example.com",
+      "password": "password15"
+    },
+    {
+      "id": 16,
+      "first_name": "Liam",
+      "last_name": "Moore",
+      "email": "liam.moore@example.com",
+      "password": "password16"
+    },
+    {
+      "id": 17,
+      "first_name": "Ella",
+      "last_name": "Walker",
+      "email": "ella.walker@example.com",
+      "password": "password17"
+    },
+    {
+      "id": 18,
+      "first_name": "Matthew",
+      "last_name": "Young",
+      "email": "matthew.young@example.com",
+      "password": "password18"
+    },
+    {
+      "id": 19,
+      "first_name": "Grace",
+      "last_name": "Hill",
+      "email": "grace.hill@example.com",
+      "password": "password19"
+    },
+    {
+      "id": 20,
+      "first_name": "Andrew",
+      "last_name": "Turner",
+      "email": "andrew.turner@example.com",
+      "password": "password20"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 10.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 20.49,
+      "category": "Clothing"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 15.99,
+      "category": "Home Decor"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "price": 8.99,
+      "category": "Kitchen Appliances"
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "price": 12.99,
+      "category": "Books"
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "price": 24.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 7,
+      "name": "Product 7",
+      "price": 7.49,
+      "category": "Clothing"
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "price": 19.99,
+      "category": "Home Decor"
+    },
+    {
+      "id": 9,
+      "name": "Product 9",
+      "price": 14.99,
+      "category": "Kitchen Appliances"
+    },
+    {
+      "id": 10,
+      "name": "Product 10",
+      "price": 30.99,
+      "category": "Books"
+    },
+    {
+      "id": 11,
+      "name": "Product 11",
+      "price": 9.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 12,
+      "name": "Product 12",
+      "price": 17.49,
+      "category": "Clothing"
+    },
+    {
+      "id": 13,
+      "name": "Product 13",
+      "price": 22.99,
+      "category": "Home Decor"
+    },
+    {
+      "id": 14,
+      "name": "Product 14",
+      "price": 11.99,
+      "category": "Kitchen Appliances"
+    },
+    {
+      "id": 15,
+      "name": "Product 15",
+      "price": 13.99,
+      "category": "Books"
+    },
+    {
+      "id": 16,
+      "name": "Product 16",
+      "price": 28.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 17,
+      "name": "Product 17",
+      "price": 6.99,
+      "category": "Clothing"
+    },
+    {
+      "id": 18,
+      "name": "Product 18",
+      "price": 16.99,
+      "category": "Home Decor"
+    },
+    {
+      "id": 19,
+      "name": "Product 19",
+      "price": 25.99,
+      "category": "Kitchen Appliances"
+    },
+    {
+      "id": 20,
+      "name": "Product 20",
+      "price": 10.49,
+      "category": "Books"
+    }
+  ]
+}
